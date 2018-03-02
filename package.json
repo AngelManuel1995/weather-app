@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AngelManuel1995/weather-app#readme",
   "dependencies": {
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
   }
 }
